@@ -1,0 +1,10 @@
+[package]
+name = "ak620"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+psutil = "3.3.0"
+hidapi = "2.6.1"
